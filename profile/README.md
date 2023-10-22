@@ -2,5 +2,6 @@
 福井高専祭の様々なシステムを制作しています
 福井高専祭に携わりたい学生、プログラミング能力を磨きたい学生を募集しています
 
-興味がある方は気軽にDiscordサーバーに参加してください！
-[Discord](https://discord.gg/GCptp8KQZD)
+興味がある方は気軽に
+[Discordサーバー](https://discord.gg/GCptp8KQZD)
+に参加してください！
